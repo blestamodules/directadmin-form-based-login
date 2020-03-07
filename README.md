@@ -12,3 +12,12 @@ Currently if a user changes there password in directadmin, they cannot use this 
 
 Your DirectAdmin installation should use SSL - otherwise this will just take them to the login screen.
 
+## The Future
+I will make a service tab when they click on "manage" in the next update.
+
+Want to be updated? Join [my discord](https://discord.gg/azt7fEB) otherwise hit the "watch" button here.
+
+I have always had plans to create a "DirectAdmin Extended" which will be a paid module option, I'm not very familiar with Blesta however so by me expirementing with DirectAdmin now It will lead me on my journey.
+
+
+
