@@ -3,11 +3,9 @@ Module modification to allow the user to sign-in directly to DirectAdmin without
 
 ## Installation
 Assuming you have made no other modifications to this file (unlikely).
-> /<path-to-blesta-installation>/components/modules/direct_admin/views/default/client_service_info.pdt
+> /path-to-blesta-installation/components/modules/direct_admin/views/default/client_service_info.pdt
   
-Replace it with the contents of client_service_info.pdt 
-
-
+Replace it with the contents of [client_service_info.pdt](https://github.com/blestamodules/directadmin-form-based-login/blob/master/client_service_info.pdt) 
 
 ## Limitations
 Currently if a user changes there password in directadmin, they cannot use this function it will just take them to the directadmin login screen.
